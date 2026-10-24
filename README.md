@@ -99,6 +99,20 @@ Other examples:
 
 Put quotation marks around a value containing spaces so the shell passes it as one argument. The modifier is case-sensitive: `-a` edits Artist and uppercase `-A` edits Album. Make a copy or backup before editing an MP3 you want to preserve.
 
+## Command-Line Screenshots
+
+### 1. Build and Help
+
+![Build and help output](https://github.com/AnujGavhane/MP3_Tag_Reader_Editor/blob/main/OP_Demo_Screenshots/Build_%26_Help.png)
+
+### 2. View Tags
+
+![View tags output](https://github.com/AnujGavhane/MP3_Tag_Reader_Editor/blob/main/OP_Demo_Screenshots/View_Tags.png)
+
+### 3. Edit Tags
+
+![Edit tags and updated output](https://github.com/AnujGavhane/MP3_Tag_Reader_Editor/blob/main/OP_Demo_Screenshots/Edit_Tags.png)
+
 ## Common errors
 
 - **`Invalid arguments`**: run `./mp3_tag_reader --help` and check the command format.
